@@ -1,7 +1,7 @@
 # Fundamentals of Biological Data Analysis
 This is a mini-course on the fundamental concepts of biological data analysis. Information about the course description, intended audience, prerequisites, registration and other logistics can be found here. Additional course materials will be uploaded here during the course. 
 
-Instructors: Dr. Kaumudi Prabhakara, Gisela Tatiana Rodriguez, Manuela Reuter
+**Instructors: Dr. Kaumudi Prabhakara, Gisela Tatiana Rodriguez, Manuela Reuter**
 
 Intended audience 
 ----------------------
