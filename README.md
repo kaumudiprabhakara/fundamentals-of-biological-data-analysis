@@ -23,7 +23,7 @@ Prerequisites
 ----------------------
 
 Basic programming skills are necessary. The course instructors will use either Python or R. 
-To ensure you have the minimum skills necessary for the course, we have created a set of tasks. If you can write programs to perform these tasks, then you have the skills necessary to participate in the course. The list of tasks can be found here. Check you answers here. 
+To ensure you have the minimum skills necessary for the course, we have created a set of tasks. If you can write programs to perform these tasks, then you have the skills necessary to participate in the course. The list of tasks can be found [here](https://github.com/kaumudiprabhakara/fundamentals-of-biological-data-analysis/blob/main/Prereq_tasks.pdf). Check you answers here. 
 
 If you cannot complete these tasks, but are willing to learn, we are happy to help you **before the course starts.** Before the start of the course, you are welcome to contact us to help you get started and complete the tasks, so that you are ready by the time the course begins.
 For help with R, contact: Gisela Tatiana Rodriguez (rodriguez@evolbio.mpg.de) or Manuela Reuter (mreuter@evolbio.mpg.de)
