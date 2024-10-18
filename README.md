@@ -32,11 +32,11 @@ For help with Python, contact: Dr. Kaumudi Prabhakara (prabhakara@evolbio.mpg.de
 
 Logistics  
 ----------------------
-The course will take place in the "Practical Room" in the "interim building" (the building in front of the main building, and next to the parking lot) of the Max Planck Institute for Evolutionary Biology. 
-There is no registration fee. 
-You are expected to bring your own laptops. If this is difficult, please contact us as early as possible, so that we can try to organize a computer for you. 
-The course will start at 09:00 and end at 17:00. There will be a three breaks - one longer lunch break and two shorter breaks. 
-The course will be in English. 
+  - The course will take place in the "Practical Room" in the "interim building" (the building in front of the main building, and next to the parking lot) of the Max Planck Institute for Evolutionary Biology. 
+  - There is no registration fee. 
+  - You are expected to bring your own laptops. If this is difficult, please contact us as early as possible, so that we can try to organize a computer for you. 
+  - The course will start at 09:00 and end at 17:00. There will be a three breaks - one longer lunch break and two shorter breaks. 
+  - The course will be in English. 
 
 Code of Conduct
 ----------------------
