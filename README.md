@@ -33,7 +33,7 @@ For help with Python, contact: Dr. Kaumudi Prabhakara (prabhakara@evolbio.mpg.de
 
 Logistics  
 ----------------------
-  - The course will run from January 13 - 17, 2025.
+  - The course will run from December 2 - 6, 2024.
   - **Register [here](https://survey.academiccloud.de/index.php/773252?newtest=Y&lang=en)**
   - The course will take place in the "Practical Room" in the "interim building" (the building in front of the main building, and next to the parking lot) of the Max Planck Institute for Evolutionary Biology. 
   - There is no registration fee. 
