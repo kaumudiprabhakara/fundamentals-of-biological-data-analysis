@@ -16,6 +16,7 @@ This hands-on course will delve into the fundamental concepts of analyzing biolo
 
   - **Day 1:** Statistics, including probabilities, distributions, hypothesis testing, correlations
   - **Day 2:** Regressions, including LASSO regularization, and ANOVA
+  -   Datasets for Regression: [Rice](https://github.com/kaumudiprabhakara/fundamentals-of-biological-data-analysis/blob/main/rice_dataset.csv) and [Leukemia](https://github.com/kaumudiprabhakara/fundamentals-of-biological-data-analysis/blob/main/standardized_leukemia_data.csv)
   - **Day 3:** Linear models
   - **Day 4:** Principal Component Analysis
   - **Day 5:** Fitting bacterial growth models to data
