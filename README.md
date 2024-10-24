@@ -6,7 +6,7 @@ This is a mini-course on the fundamental concepts of biological data analysis. I
 Intended audience 
 ----------------------
 
-This course is aimed at those who want to (1) understand the mathematics behind data analysis functions and (2) start writing their own code to analyze data. Mathematics and writing codes will be big components of the course. We start from a fundamental level, only assuming that the participants have basic programming skills (see Prequisites below). 
+This course is aimed at those who want to (1) understand the mathematics behind data analysis functions and (2) start writing their own code to analyze data. Mathematics and writing codes will be big components of the course. We start from a fundamental level, only assuming that the participants have basic programming skills (see Prerequisites below). 
 
 
 Course description 
