@@ -21,7 +21,7 @@ This hands-on course will delve into the fundamental concepts of analyzing biolo
   - **Day 4:** Principal Component Analysis
       - Dataset for PCA: [Wines](https://github.com/kaumudiprabhakara/fundamentals-of-biological-data-analysis/blob/main/wine_dataset.csv)
   - **Day 5:** Fitting bacterial growth models to data
-      - Dataset for fitting [growth models] (https://github.com/kaumudiprabhakara/fundamentals-of-biological-data-analysis/blob/main/growth.csv). 
+      - Dataset for fitting [growth models](https://github.com/kaumudiprabhakara/fundamentals-of-biological-data-analysis/blob/main/growth.csv). 
 
 Prerequisites  
 ----------------------
