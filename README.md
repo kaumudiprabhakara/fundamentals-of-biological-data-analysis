@@ -15,6 +15,8 @@ Course description
 This hands-on course will delve into the fundamental concepts of analyzing biological data. The participants will learn what commonly used analysis tools actually do, and when and how they can be used. The participants will also learn to write their own codes to analyse data. 
 
   - **Day 1:** Statistics, including probabilities, distributions, hypothesis testing, correlations
+     - Datasets for T-test: [Iris](https://github.com/kaumudiprabhakara/fundamentals-of-biological-data-analysis/blob/main/iris.csv)
+     - Datasets for Correlations: [Trees](https://github.com/kaumudiprabhakara/fundamentals-of-biological-data-analysis/blob/main/trees.csv)
   - **Day 2:** Regressions, including LASSO regularization, and ANOVA
      - Datasets for Regression: [Rice](https://github.com/kaumudiprabhakara/fundamentals-of-biological-data-analysis/blob/main/rice_dataset.csv) and [Leukemia](https://github.com/kaumudiprabhakara/fundamentals-of-biological-data-analysis/blob/main/standardized_leukemia_data.csv)
   - **Day 3:** Linear models
