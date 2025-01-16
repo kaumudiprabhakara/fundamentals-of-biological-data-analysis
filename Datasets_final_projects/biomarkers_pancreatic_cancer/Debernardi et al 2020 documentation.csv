@@ -1,0 +1,15 @@
+﻿Column name,Original column name,Details
+sample_id,Sample ID,Unique string identifying each subject
+patient_cohort,Patient's Cohort,"Cohort 1,  previously used samples; Cohort 2, newly added samples"
+sample_origin,Sample Origin,"BPTB: Barts Pancreas Tissue Bank, London, UK; ESP: Spanish National Cancer Research Centre, Madrid, Spain; LIV: Liverpool University, UK; UCL: University College London, UK"
+age,Age,Age in years
+sex,Sex,"M = male, F = female"
+diagnosis,"Diagnosis (1=Control, 2=Benign, 3=PDAC)","1 = control (no pancreatic disease), 2 = benign hepatobiliary disease (119 of which are chronic pancreatitis); 3 = Pancreatic ductal adenocarcinoma, i.e. pancreatic cancer"
+stage,Stage,"For those with pancratic cancer, what stage was it? One of IA, IB, IIA, IIIB, III, IV"
+benign_sample_diagnosis,Benign Samples Diagnosis,"For those with a benign, non-cancerous diagnosis, what was the diagnosis?"
+plasma_CA19_9,Plasma CA19-9 U/ml,Blood plasma levels of CA 19–9 monoclonal antibody that is often elevated in patients with pancreatic cancer. Only assessed in 350 patients (one goal of the study was to compare various CA 19-9 cutpoints from a blood sample to the model developed using urinary samples).
+creatinine,Creatinine mg/ml,Urinary biomarker of kidney function
+LYVE1,LYVE1 ng/ml,"Urinary levels of Lymphatic vessel endothelial hyaluronan receptor 1, a protein that may play a role in tumor metastasis"
+REG1B,REG1B ng/ml,Urinary levels of a protein that may be associated with pancreas regeneration.
+TFF1,TFF1 ng/ml,"Urinary levels of Trefoil Factor 1, which may be related to regeneration and repair of the urinary tract"
+REG1A,REG1A ng/ml,Urinary levels of a protein that may be associated with pancreas regeneration. Only assessed in 306 patients (one goal of the study was to assess REG1B vs REG1A)

@@ -1,0 +1,388 @@
+﻿Species,Family,Heterozygosity,Allelic richness,Breeding range size,Body mass,Latitude,Migratory status,References
+Apteryx australis,Struthioniformes,0.596,4,2.0088,2321,45.62,Resident,Shepherd and Lambert 2006; Willoughby et al. 2015
+Tinamus major,Tinamiformes,0.763,8.56,782.5703,1026,1.54,Resident,Hughes 2010; Willoughby et al. 2015
+Eudyptes chrysolophus,Sphenisciformes,0.776,10.73,14.5674,4485,54.1,Migratory,Hughes 2010; Willoughby et al. 2015
+Eudyptula minor,Sphenisciformes,0.54,6.38,60.9832,1108,39.27,Resident,Billing et al. 2007; Willoughby et al. 2015
+Megadyptes antipodes,Sphenisciformes,0.447,3.25,16.6531,5326,47.3,Resident,Boessenkool et al. 2008; Willoughby et al. 2015
+Pygoscelis adeliae,Sphenisciformes,0.524,10.5,134.0897,4848,63.01,Migratory,Evans and Sheldon 2008; Roeder et al. 2001
+Spheniscus humboldti,Sphenisciformes,0.759,7.86,9.0311,4366,23,Migratory,Evans and Sheldon 2008; Schlosser et al. 2003
+Spheniscus magellanicus,Sphenisciformes,0.432,8.4,221.8842,4105,41.47,Migratory,Hughes 2010; Willoughby et al. 2015
+Podiceps grisegena,Podicipediformes,0.833,11,6393.0292,1023,53.39,Migratory,Sachs and Hughes 1999; Willoughby et al. 2015
+Diomedea exulans,Procellariiformes,0.403,5,19615.043,6961,48.16,Migratory,Hughes 2010; Dubois et al. 2005
+Oceanodroma castro,Procellariiformes,0.443,4.56,10073.528,46,11.88,Migratory,Sun et al. 2009; Willoughby et al. 2015
+Oceanodroma leucorhoa,Procellariiformes,0.565,4.4,17449.76,37,36.78,Migratory,Bicknell et al. 2011; Willoughby et al. 2015
+Procellaria aequinoctialis,Procellariiformes,0.547,5.3,20158.622,1213,49.12,Migratory,Evans and Sheldon 2008; Techow and O'Ryan 2004
+Pterodroma arminjoniana,Procellariiformes,0.48,4.4,2604.1121,394,13.47,Migratory,Brown et al. 2010; Willoughby et al. 2015
+Puffinus carneipes,Procellariiformes,0.614,6.8,14852.951,609,33.05,Migratory,Hardesty et al. 2013; Willoughby et al. 2015
+Puffinus yelkouan,Procellariiformes,0.53,4.63,486.0966,497,39.47,Migratory,Genovart et al. 2012; Willoughby et al. 2015
+Thalassarche bulleri,Procellariiformes,0.64,6.4,2569.8572,2782,40.92,Migratory,Van Bekkum et al. 2006; Willoughby et al. 2015
+Thalassarche cauta,Procellariiformes,0.59,4,3752.8479,3898,40.09,Migratory,Abbott and Double 2003; Willoughby et al. 2015
+Thalassarche chrysostoma,Procellariiformes,0.459,4,20522.357,3499,49.84,Migratory,Evans and Sheldon 2008; Willoughby et al. 2015
+Pelecanus erythrorhynchos,Pelecaniformes,0.647,4.8,292.9164,5609,32.84,Migratory,Hughes 2010; Hickman et al. 2008
+Pelecanus onocrotalus,Pelecaniformes,0.723,8.9,145.1431,9322,16.55,Migratory,Hughes 2010; Willoughby et al. 2015
+Phalacrocorax auritus,Pelecaniformes,0.533,11,932.7618,1807,35.53,Migratory,Hughes 2010; Willoughby et al. 2015
+Phalacrocorax carbo,Pelecaniformes,0.854,27.3,3813.2313,2529,15.22,Migratory,Minias et al. 2015
+Phalacrocorax harrisi,Pelecaniformes,0.563,4.75,0.0091,3017,0.32,Resident,Hughes 2010; Willoughby et al. 2015
+Sula nebouxii,Pelecaniformes,0.621,7.09,454.2478,1520,4.34,Resident,Hughes 2010; Faircloth et al. 2009
+Sula sula,Pelecaniformes,0.587,4.67,12985.524,1031,7.15,Migratory,An et al. 2010; Willoughby et al. 2015
+Ardea herodias,Ciconiiformes,0.593,8.07,2457.1693,2523,21.17,Migratory,Evans and Sheldon 2008; McGuire and Noor 2002
+Bubulcus ibis,Ciconiiformes,0.351,2.55,3536.3697,366,14.93,Migratory,Campanini et al.  2012; Willoughby et al. 2015
+Ciconia ciconia,Ciconiiformes,0.41,3.46,1086.504,3446,24.23,Migratory,Shephard et al. 2009; Willoughby et al. 2015
+Egretta eulophotes,Ciconiiformes,0.553,4.65,19.0244,462,24.51,Migratory,Dai et al. 2013; Willoughby et al. 2015
+Egretta rufescens,Ciconiiformes,0.541,4.33,41.715,614,19.4,Migratory,Hughes 2010; Hill and Green 2010
+Eudocimus ruber,Ciconiiformes,0.462,6.1,83.8764,660,4.63,Resident,Santos et al. 2006; Willoughby et al. 2015
+Geronticus eremita,Ciconiiformes,0.656,5,22.6453,1202,26.6,Migratory,Wirtz et al. 2016
+Jabiru mycteria,Ciconiiformes,0.446,4.13,979.68,5996,10.32,Migratory,Lopes et al. 2013; Willoughby et al. 2015
+Mycteria americana,Ciconiiformes,0.358,2.36,1569.0704,2555,20.02,Migratory,Evans and Sheldon 2008; Willoughby et al. 2015
+Nipponia nippon,Ciconiiformes,0.121,2.25,0.3977,1900,32.46,Resident,Evans and Sheldon 2008; Ji et al. 2004
+Nycticorax nycticorax,Ciconiiformes,0.728,7.45,6625.585,810,17.26,Migratory,Hughes 2010; Chang et al. 2009a
+Platalea minor,Ciconiiformes,0.709,8,2.8196,1228,28.22,Migratory,Hughes 2010; Willoughby et al. 2015
+Anas acuta,Anseriformes,0.5,5.2,11787.001,945,31.18,Migratory,Evans and Sheldon 2008; Willoughby et al. 2015
+Anas fulvigula,Anseriformes,0.487,7.02,25.3957,1000,24.4,Migratory,Evans and Sheldon 2008; Willoughby et al. 2015
+Anas platyrhynchos,Anseriformes,0.863,6.34,10726.698,843,20.41,Migratory,Evans and Sheldon 2008; Willoughby et al. 2015
+Anser anser,Anseriformes,0.439,4.4,3589.6598,3302,16.13,Migratory,Hughes 2010; Willoughby et al. 2015
+Anser brachyrhynchus,Anseriformes,0.534,4,211.5574,2642,63.16,Migratory,Noreikiene et al. 2012b; Willoughby et al. 2015
+Anser cygnoides,Anseriformes,0.564,4.18,520.0229,3512,40.27,Migratory,Aurelle et al. 2010; Willoughby et al. 2015
+Anser erythropus,Anseriformes,0.513,3.6,1919.2407,1756,53.81,Migratory,Ruokonen et al. 2010; Willoughby et al. 2015
+Aythya ferina,Anseriformes,0.554,6.06,4843.6331,823,42.84,Migratory,St'ovicek et al. 2011; Willoughby et al. 2015
+Aythya fuligula,Anseriformes,0.616,12.45,7559.4197,701,39.73,Migratory,Liu et al. 2012; Willoughby et al. 2015
+Aythya marila,Anseriformes,0.343,3.86,6699.3352,1005,53.31,Migratory,Evans and Sheldon 2008; Willoughby et al. 2015
+Branta bernicla,Anseriformes,0.8,11.51,5272.5826,1278,55.45,Migratory,Harrison et al. 2010; Willoughby et al. 2015
+Branta canadensis,Anseriformes,0.549,18.5,3891.725,2812,44.15,Migratory,Evans and Sheldon 2008; Willoughby et al. 2015
+Branta sandvicensis,Anseriformes,0.481,3.13,0.764,2044,20.1,Resident,Hughes 2010; Willoughby et al. 2015
+Bucephala islandica,Anseriformes,0.685,8.74,766.4302,921,55.48,Migratory,Hughes 2010; Willoughby et al. 2015
+Cairina moschata,Anseriformes,0.569,4.27,1515.7141,2416,7.45,Resident,Evans and Sheldon 2008; Willoughby et al. 2015
+Cygnus buccinator,Anseriformes,0.29,2.25,509.9281,11071,45.51,Migratory,Ransler et al. 2011; Willoughby et al. 2015
+Mergus merganser,Anseriformes,0.5,6.89,7956.5606,1451,44.93,Migratory,Gautschi and Koller 2005; Willoughby et al. 2015
+Oxyura jamaicensis,Anseriformes,0.507,6.3,1431.396,608,36.37,Migratory,Evans and Sheldon 2008; Munoz-Fuentes et al. 2005
+Oxyura leucocephala,Anseriformes,0.321,2.6,940.2385,661,42.76,Migratory,Evans and Sheldon 2008; Munoz-Fuentes et al. 2005
+Polysticta stelleri,Anseriformes,0.567,5,1116.3238,807,63.49,Migratory,Evans and Sheldon 2008; Fields and Scribner 1997
+Somateria fischeri,Anseriformes,0.484,8,809.3039,1557,65.81,Migratory,Evans and Sheldon 2008; Scribner et al. 2001
+Somateria mollissima,Anseriformes,0.646,8.75,2175.245,2061,61.38,Migratory,Evans and Sheldon 2008; Öst et al. 2005
+Somateria spectabilis,Anseriformes,0.31,7,4288.7521,1617,64.21,Migratory,Evans and Sheldon 2008; Pearce et al. 2004
+Aquila adalberti,Falconiformes,0.549,4.89,21.7241,2958,39.06,Resident,Martinez-Cruz et al. 2004; Willoughby et al. 2015
+Aquila audax,Falconiformes,0.333,3,959.1119,3450,25.74,Resident,Burridge et al. 2013; Willoughby et al. 2015
+Aquila chrysaetos,Falconiformes,0.489,4,11830.002,4248,52.68,Migratory,Hughes 2010; Willoughby et al. 2015
+Aquila heliaca,Falconiformes,0.624,3.3,2332.2471,3125,37.68,Migratory,Evans and Sheldon 2008; Martinez-Cruz et al. 2002
+Buteo buteo,Falconiformes,0.535,4.46,3500.4808,759,32.16,Migratory,Evans and Sheldon 2008; Johnson et al. 2005
+Buteo jamaicensis,Falconiformes,0.74,15.12,3430.1352,1101,36.83,Migratory,Hughes 2010; Willoughby et al. 2015
+Buteo ridgwayi,Falconiformes,0.78,9.27,3.9746,866,18.97,Resident,Woolaver et al. 2013; Willoughby et al. 2015
+Buteo swainsoni,Falconiformes,0.848,18.88,1700.9534,947,12.19,Migratory,Hughes 2010; Hull et al. 2007
+Circus cyaneus,Falconiformes,0.527,5.2,6496.0909,393,45.91,Migratory,Baker et al. 2011; Willoughby et al. 2015
+Circus macrourus,Falconiformes,0.657,7,1567.2245,384,29.46,Migratory,Baker et al. 2011; Willoughby et al. 2015
+Circus pygargus,Falconiformes,0.544,4.67,1676.9431,311,28.23,Migratory,Baker et al. 2011; Willoughby et al. 2015
+Falco cherrug,Falconiformes,0.57,5.4,2528.725,961,34.8,Migratory,Johnson et al. 2007; Willoughby et al. 2015
+Falco columbarius,Falconiformes,0.581,5.14,3329.054,189,29.79,Migratory,Evans and Sheldon 2008; Nesje et al. 2000
+Falco naumanni,Falconiformes,0.681,7.93,1962.5296,152,26.91,Migratory,Padilla et al. 2009; Willoughby et al. 2015
+Falco rusticolus,Falconiformes,0.451,3.1,7140.9185,1432,66.38,Migratory,Johnson et al. 2007; Willoughby et al. 2015
+Falco sparverius,Falconiformes,0.493,4.2,4764.0224,115,20.17,Migratory,Miller et al. 2012; Willoughby et al. 2015
+Falco subbuteo,Falconiformes,0.595,3.45,7707.9679,208,24.32,Migratory,Evans and Sheldon 2008; Nesje et al. 2000
+Falco tinnunculus,Falconiformes,0.7,5.93,10022.428,183,32.12,Migratory,Padilla et al. 2009; Willoughby et al. 2015
+Gypaetus barbatus,Falconiformes,0.589,6.07,1335.1984,5695,36.73,Resident,Evans and Sheldon 2008; Gautshi et al. 2000
+Gyps fulvus,Falconiformes,0.652,5,500.5587,7436,34.32,Migratory,Evans and Sheldon 2008; Willoughby et al. 2015
+Haliaeetus albicilla,Falconiformes,0.468,4,7177.5776,4729,53.12,Migratory,Hailer et al. 2005; Willoughby et al. 2015
+Haliaeetus vociferoides,Falconiformes,0.396,2.36,5.7836,3000,17.15,Resident,Hughes 2010; Tingay et al. 2007
+Hieraaetus spilogaster,Falconiformes,0.551,4,1305.7188,2193,2.86,Resident,Mira et al. 2005; Willoughby et al. 2015
+Neophron percnopterus,Falconiformes,0.53,4.72,2498.7398,2082,22.7,Migratory,Agudo et al. 2008; Willoughby et al. 2015
+Nisaetus nipalensis,Falconiformes,0.56,3.67,274.7814,3005,26.77,Migratory,Hirai and Yamazaki 2010; Willoughby et al. 2015
+Pandion haliaetus,Falconiformes,0.682,2.2,8874.9655,1483,25.28,Migratory,Dawson et al. 2015
+Pernis ptilorhyncus,Falconiformes,0.64,5.6,1825.861,1141,26.63,Migratory,Weng et al. 2009; Willoughby et al. 2015
+Spilornis cheela,Falconiformes,0.5,3.83,769.2831,598,25.19,Resident,Hsu et al. 2013; Willoughby et al. 2015
+Alectoris graeca,Galliformes,0.38,5.5,100.597,594,42.95,Resident,Randi et al. 2003; Willoughby et al. 2015
+Alectoris rufa,Galliformes,0.685,9.36,217.7153,528,47.77,Resident,Hughes 2010; Ferrero et al. 2007
+Alectura lathami,Galliformes,0.652,7.71,76.5912,2333,22.76,Resident,Martins et al. 2013; Willoughby et al. 2015
+Bonasa bonasia,Galliformes,0.561,10.5,5803.3875,429,58.01,Resident,Sahlsten et al. 2008; Willoughby et al. 2015
+Callipepla squamata,Galliformes,0.707,6,189.3439,184,29.9,Resident,Orange et al. 2014
+Centrocercus urophasianus,Galliformes,0.614,16.2,252.048,1903,43.61,Resident,Taylor et al. 2003; Willoughby et al. 2015
+Chrysolophus pictus,Galliformes,0.772,11.93,130.9644,555,41.26,Resident,Hughes 2010; He et al. 2009
+Colinus virginianus,Galliformes,0.646,6.48,652.4172,172,34.48,Resident,Evans and Sheldon 2008; Schable et al. 2004
+Crax globulosa,Galliformes,0.717,5.67,6.064,2500,7.78,Resident,Hughes and Larson 2000; Willoughby et al. 2015
+Crossoptilon mantchuricum,Galliformes,0.669,6.13,31.0051,1861,39.53,Resident,Hughes 2010; Willoughby et al. 2015
+Lagopus leucura,Galliformes,0.765,10.22,629.8347,355,57.42,Resident,Fedy et al. 2008; Willoughby et al. 2015
+Lagopus muta,Galliformes,0.87,13,9697.0076,535,63.64,Resident,Caizergues et al.  2003a; Willoughby et al. 2015
+Numida meleagris,Galliformes,0.419,3.39,1459.9605,1299,2.54,Resident,Botchway et al. 2013; Willoughby et al. 2015
+Odontophorus leucolaemus,Galliformes,0.802,10.22,0.9749,295,9.53,Resident,Evans and Sheldon 2008; Willoughby et al. 2015
+Perdix perdix,Galliformes,0.665,4.27,3314.382,405,18.31,Resident,Bech et al. 2014
+Syrmaticus ellioti,Galliformes,0.376,7.25,59.4388,1008,27.43,Resident,Hughes 2010; Willoughby et al. 2015
+Syrmaticus reevesii,Galliformes,0.569,7.1,71.7454,1205,30.57,Resident,Hughes 2010; Wang et al. 2009
+Tetrao tetrix,Galliformes,0.759,11,4817.1348,1069,56.88,Resident,Evans and Sheldon 2008; Caizergues et al. 2003b
+Tetraophasis szechenyii,Galliformes,0.765,5.2,70.0761,1053,30.15,Resident,Hughes 2010; Willoughby et al. 2015
+Tragopan temminckii,Galliformes,0.768,12.25,163.0218,1163,28.33,Resident,Hughes 2010; Willoughby et al. 2015
+Tympanuchus cupido,Galliformes,0.731,10.5,613.1106,870,42.19,Resident,Johnson et al. 2003; Willoughby et al. 2015
+Tympanuchus pallidicinctus,Galliformes,0.697,4.33,77.0169,746,35.68,Resident,Evans and Sheldon 2008; Willoughby et al. 2015
+Amaurornis olivieri,Gruiformes,0.544,4.59,4.8404,157,18.01,Resident,Hughes 2010; Willoughby et al. 2015
+Balearica regulorum,Gruiformes,0.661,7.57,378.2265,3772,12.81,Resident,Meares et al. 2008; Willoughby et al. 2015
+Chlamydotis undulata,Gruiformes,0.543,4.45,440.4996,1501,28.24,Resident,Chbel et al. 2002; Willoughby et al. 2015
+Crex crex,Gruiformes,0.899,12.89,3689.0122,155,25.71,Migratory,Evans and Sheldon 2008; Willoughby et al. 2015
+Grus americana,Gruiformes,0.455,3.8,88.1846,5826,41.1,Migratory,Hughes 2010; Jones et al. 2010
+Grus canadensis,Gruiformes,0.575,3.79,3824.2458,4296,45.94,Migratory,Hughes 2010; Jones et al. 2010
+Grus japonensis,Gruiformes,0.549,2.8,164.9847,8786,40.78,Migratory,Evans and Sheldon 2008; Willoughby et al. 2015
+Mesitornis variegatus,Gruiformes,0.702,6.1,4.3794,113,18.08,Resident,Gamero et al. 2013; Willoughby et al. 2015
+Monias benschi,Gruiformes,0.471,5.56,1.4406,138,22.42,Resident,Seddon et al. 2005; Willoughby et al. 2015
+Otis tarda,Gruiformes,0.513,4.21,1227.5218,6760,43.35,Migratory,Horreo et al. 2013; Willoughby et al. 2015
+Porphyrio hochstetteri,Gruiformes,0.405,2.25,1.2029,2462,45.27,Resident,Grueber et al. 2015
+Rallus elegans,Gruiformes,0.844,13.56,497.529,313,34.64,Migratory,Brackett et al.2013; Willoughby et al. 2015
+Aethia cristatella,Charadriiformes,0.819,9.89,156.1068,259,53.1,Resident,Evans and Sheldon 2008; Dawson et al. 2005b
+Aethia psittacula,Charadriiformes,0.687,15,130.5203,270,53.24,Resident,Dawson et al. 2005b; Willoughby et al. 2015
+Brachyramphus marmoratus,Charadriiformes,0.661,6.16,494.0573,220,53.51,Resident,Rew et al. 2006; Willoughby et al. 2015
+Burhinus oedicnemus,Charadriiformes,0.739,8.6,1610.2031,459,31.93,Migratory,Mori et al. 2014
+Calidris melanotos,Charadriiformes,0.872,15.5,2044.3691,80,19.78,Migratory,Carter and Kempenaers 2007; Willoughby et al. 2015
+Calidris ptilocnemis,Charadriiformes,0.82,14.75,144.5699,81,57.25,Migratory,Pruett et al. 2014 
+Cerorhinca monocerata,Charadriiformes,0.614,6.13,79.7498,482,46.46,Resident,Evans and Sheldon 2008; Willoughby et al. 2015
+Charadrius alexandrinus,Charadriiformes,0.755,8.65,2475.3323,42,15.02,Migratory,Hughes 2010; Willoughby et al. 2015
+Charadrius montanus,Charadriiformes,0.481,5.04,135.7579,96,35.43,Migratory,Hughes 2010; John et al. 2007
+Chlidonias hybrida,Charadriiformes,0.516,7.18,1478.1775,84,9.98,Migratory,Arranz et al. 2013; Willoughby et al. 2015
+Coenocorypha pusilla,Charadriiformes,0.034,1.44,0.0009,81,44.3,Resident,Baker et al. 2010; Willoughby et al. 2015
+Haematopus ostralegus,Charadriiformes,0.455,3.25,2694.7027,526,23.83,Migratory,Evans and Sheldon 2008; Willoughby et al. 2015
+Himantopus himantopus,Charadriiformes,0.786,7.13,8359.3988,177,17.81,Migratory,Steeves et al. 2008; Willoughby et al. 2015
+Larus argentatus,Charadriiformes,0.519,5,729.011,1091,59.33,Migratory,Hughes 2010; Gay et al. 2007
+Larus cachinnans,Charadriiformes,0.549,6.11,334.7841,1112,38.96,Migratory,Hughes 2010; Gay et al. 2007
+Larus novaehollandiae,Charadriiformes,0.564,7.3,591.6443,269,23.86,Migratory,Evans and Sheldon 2008; Given et al. 2002
+Limosa limosa,Charadriiformes,0.682,8.67,3293.2344,288,36.46,Migratory,Verkuil et al. 2009; Willoughby et al. 2015
+Numenius tahitiensis,Charadriiformes,0.512,5.4,22.9766,400,25.68,Migratory,Sonsthagen et al. 2014
+Pagophila eburnea,Charadriiformes,0.709,7.05,1073.2881,550,76.11,Migratory,Yannic et al. 2011; Willoughby et al. 2015
+Philomachus pugnax,Charadriiformes,0.719,19.11,4749.8051,132,21.05,Migratory,Evans and Sheldon 2008; Willoughby et al. 2015
+Rissa tridactyla,Charadriiformes,0.591,6.57,1124.5314,416,41.35,Migratory,Evans and Sheldon 2008; Willoughby et al. 2015
+Scolopax rusticola,Charadriiformes,0.64,6.4,4800.3709,308,45.29,Migratory,Hughes 2010; Cardia et al. 2007
+Sterna albifrons,Charadriiformes,0.463,3.66,2404.6231,57,5.5,Migratory,Noreikiene et al. 2012a; Willoughby et al. 2015
+Sterna hirundo,Charadriiformes,0.71,5.71,8286.4592,129,14.72,Migratory,Szczys et al. 2012; Willoughby et al. 2015
+Synthliboramphus hypoleucus,Charadriiformes,0.575,6.25,72.1897,167,32.97,Resident,Birt et al. 2010; Willoughby et al. 2015
+Uria aalge,Charadriiformes,0.69,18.6,559.3555,992,57.86,Migratory,Ibarguchi et al. 2000; Willoughby et al. 2015
+Uria lomvia,Charadriiformes,0.817,18.6,1660.9548,964,62.81,Migratory,Ibarguchi et al. 2000; Willoughby et al. 2015
+Patagioenas squamosa,Columbiformes,0.693,6.73,23.0474,312,13.75,Resident,Baker et al. 2011; Willoughby et al. 2015
+Zenaida aurita,Columbiformes,0.79,9.15,26.2954,156,22.54,Resident,Monceau et al. 2013; Willoughby et al. 2015
+Amazona farinosa,Psittaciformes,0.755,11.44,692.0493,626,3.63,Resident,Gebhardt and Waits 2008; Willoughby et al. 2015
+Amazona guildingii,Psittaciformes,0.556,4.67,0.0045,646,13.25,Resident,Evans and Sheldon 2008; Russello et al. 2001
+Amazona leucocephala,Psittaciformes,0.51,3.2,14.4449,235,21.89,Resident,Russello et al. 2010; Willoughby et al. 2015
+Amazona vittata,Psittaciformes,0.676,4.28,0.9917,279,18.28,Resident,Afanador et al. 2014
+Ara ararauna,Psittaciformes,0.72,7.4,806.6543,1125,0.51,Resident,Evans and Sheldon 2008; Willoughby et al. 2015
+Ara chloropterus,Psittaciformes,0.574,5.9,832.7031,1214,5.12,Resident,Gebhardt and Waits 2008; Willoughby et al. 2015
+Ara macao,Psittaciformes,0.735,7.45,717.9264,1015,6.85,Resident,Gebhardt and Waits 2008; Willoughby et al. 2015
+Calyptorhynchus latirostris,Psittaciformes,0.688,6.6,5.778,612,32.01,Resident,Hughes 2010; Willoughby et al. 2015
+Cyanoramphus auriceps,Psittaciformes,0.45,3.06,12.2467,46,43.04,Resident,Andrews et al. 2013; Willoughby et al. 2015
+Cyanoramphus forbesi,Psittaciformes,0.475,4.14,0.013,90,44.28,Resident,Evans and Sheldon 2008; Willoughby et al. 2015
+Cyanoramphus malherbi,Psittaciformes,0.35,3.28,8.9281,47,42.56,Resident,Andrews et al. 2013; Willoughby et al. 2015
+Cyanoramphus novaezelandiae,Psittaciformes,0.454,3.79,50.4688,90,34.23,Resident,Grueber et al. 2015
+Myiopsitta monachus,Psittaciformes,0.64,6,379.9094,120,7.77,Resident,da Silva et al. 2010; Willoughby et al. 2015
+Nestor meridionalis,Psittaciformes,0.42,6.2,16.7309,428,40.13,Resident,Evans and Sheldon 2008; Willoughby et al. 2015
+Poicephalus robustus,Psittaciformes,0.629,7,380.4933,343,10.05,Resident,Hughes 2010; Pillay et al. 2010
+Psittacula eques,Psittaciformes,0.678,5.57,0.1148,163,20.38,Resident,Raisin et al. 2009; Willoughby et al. 2015
+Psittacus erithacus,Psittaciformes,0.742,8.5,276.7839,333,0.11,Resident,Hughes 2010; Willoughby et al. 2015
+Pyrrhura orcesi,Psittaciformes,0.641,5.64,0.0747,71,3.26,Resident,Aurelle et al. 2010; Willoughby et al. 2015
+Strigops habroptila,Psittaciformes,0.48,3.33,3.596,1732,43.51,Resident,Robertson et al. 2009; Willoughby et al. 2015
+Centropus phasianinus,Cuculiformes,0.638,6,298.4076,382,17.67,Resident,Maurer et al. 2005; Willoughby et al. 2015
+Chrysococcyx basalis,Cuculiformes,0.78,12.1,959.9697,23,14.77,Migratory,Hughes 2010; Adcock et al. 2007
+Chrysococcyx lucidus,Cuculiformes,0.76,7.6,375.8247,24,23.69,Migratory,Hughes 2010; Adcock et al. 2007
+Chrysococcyx minutillus,Cuculiformes,0.78,10.6,309.2685,19,18.89,Migratory,Hughes 2010; Adcock et al. 2007
+Clamator glandarius,Cuculiformes,0.654,6.7,1506.1408,143,8.37,Migratory,Evans and Sheldon 2008; Martinez et al. 1998
+Crotophaga ani,Cuculiformes,0.755,6.2,1508.4006,110,12.48,Resident,Evans and Sheldon 2008; Willoughby et al. 2015
+Cuculus canorus,Cuculiformes,0.832,13.29,10380.284,111,27.15,Migratory,Gibbs et al. 1998; Willoughby et al. 2015
+Geococcyx californianus,Cuculiformes,0.761,9.67,410.2958,376,30.77,Resident,MacDonald et al. 2013; Willoughby et al. 2015
+Guira guira,Cuculiformes,0.768,9.9,945.26,141,20.34,Migratory,Evans and Sheldon 2008; Muniz et al. 2003
+Aegolius funereus,Strigiformes,0.502,6.14,8305.3672,137,56.76,Migratory,Evans and Sheldon 2008; Koopman et al. 2004
+Athene cunicularia,Strigiformes,0.816,11.55,2011.8752,151,6.36,Migratory,Macias-Duarte et al. 2010; Willoughby et al. 2015
+Athene noctua,Strigiformes,0.713,6.17,4828.9027,169,43.24,Resident,Aurelle et al. 2010; Willoughby et al. 2015
+Bubo bubo,Strigiformes,0.664,4.86,8156.1257,2669,49.32,Resident,Kleven et al. 2013; Willoughby et al. 2015
+Glaucidium brasilianum,Strigiformes,0.667,10.4,1545.9643,75,7.12,Resident,Evans and Sheldon 2008; Proudfoot et al. 2005
+Ninox connivens,Strigiformes,0.594,6.75,341.5938,578,24.17,Resident,Hogan et al. 2009; Willoughby et al. 2015
+Ninox novaeseelandiae,Strigiformes,0.756,9.56,48.5585,183,41.78,Resident,Hogan et al. 2009; Willoughby et al. 2015
+Ninox strenua,Strigiformes,0.589,4.64,80.6379,1346,32.12,Resident,Hughes 2010; Hogan et al. 2007
+Otus elegans,Strigiformes,0.797,11.17,0.4912,124,25.8,Resident,Evans and Sheldon 2008; Hsu et al. 2003
+Strix aluco,Strigiformes,0.667,7.43,2359.6237,473,49.51,Resident,Brito 2007; Willoughby et al. 2015
+Strix nebulosa,Strigiformes,0.58,4.06,7638.8786,1062,58.21,Resident,Hughes 2010; Willoughby et al. 2015
+Strix occidentalis,Strigiformes,0.786,9.86,188.7561,586,42.62,Resident,Thode et al.2002; Willoughby et al. 2015
+Tyto alba,Strigiformes,0.6,4.14,7897.3586,403,9.91,Resident,Burri et al. 2008; Willoughby et al. 2015
+Eulampis jugularis,Apodiformes,0.42,3.15,0.5623,9,13.76,Resident,Khimoun et al. 2016
+Selasphorus platycercus,Apodiformes,0.705,9.4,100.2742,4,33.91,Migratory,Oyler-McCance et al. 2011; Willoughby et al. 2015
+Trochilus polytmus,Apodiformes,0.649,5.57,1.1318,5,18.16,Resident,Lance et al. 2009; Willoughby et al. 2015
+Trochilus scitulus,Apodiformes,0.625,5.71,0.0881,4,18.06,Resident,Lance et al. 2009; Willoughby et al. 2015
+Buceros bicornis,Coraciiformes,0.666,10.67,325.9943,2791,15.78,Resident,Hughes 2010; Willoughby et al. 2015
+Ceyx pictus,Coraciiformes,0.824,8.15,1439.5868,13,1.61,Migratory,Evans and Sheldon 2008; Bardeleben and Gray 2005b
+Merops ornatus,Coraciiformes,0.688,7,797.6211,30,16.33,Migratory,Adcock et al. 2006; Willoughby et al. 2015
+Upupa epops,Coraciiformes,0.76,7.89,7412.2129,67,20.84,Migratory,Hughes 2010; Willoughby et al. 2015
+Colaptes auratus,Piciformes,0.849,16,2904.1978,132,40.86,Migratory,Hughes 2010; Kuhn et al. 2009
+Dendrocopos medius,Piciformes,0.632,4.5,876.1114,59,47.61,Resident,Vila et al. 2008; Willoughby et al. 2015
+Picoides arcticus,Piciformes,0.576,6.91,2087.2948,69,54.53,Resident,Pierson et al. 2010; Willoughby et al. 2015
+Picoides borealis,Piciformes,0.64,6.25,128.3513,48,33.32,Resident,Hughes 2010; Willoughby et al. 2015
+Picoides tridactylus,Piciformes,0.709,7.65,8625.8116,66,57.81,Resident,Hughes 2010; Willoughby et al. 2015
+Acanthisitta chloris,Passeriformes,0.68,5.56,37.0967,7,42.18,Resident,Preston et al. 2013; Willoughby et al. 2015
+Acridotheres tristis,Passeriformes,0.636,4.92,1058.3088,116,7.47,Resident,Berthouly-Salazar et al. 2012; Willoughby et al. 2015
+Acrocephalus arundinaceus,Passeriformes,0.578,10.57,3792.5312,30,14.32,Migratory,Evans and Sheldon 2008; Willoughby et al. 2015
+Acrocephalus paludicola,Passeriformes,0.515,5.45,487.1428,12,42.87,Migratory,Salewski et al. 2012; Willoughby et al. 2015
+Acrocephalus sechellensis,Passeriformes,0.543,3.5,0.0004,16,4.14,Resident,Hughes 2010; Brouwer et al. 2007
+Aegithalos caudatus,Passeriformes,0.676,11.6,4940.4587,9,56.14,Resident,Simeoni et al. 2007; Willoughby et al. 2015
+Ammodramus caudacutus,Passeriformes,0.831,14.7,23.2602,19,37.5,Migratory,Hughes 2010; Hill et al. 2008
+Ammodramus maritimus,Passeriformes,0.81,9.64,25.1665,22,32.02,Resident,Lehmicke et al. 2012; Willoughby et al. 2015
+Ammodramus savannarum,Passeriformes,0.74,13.2,915.6667,18,28.55,Migratory,Bulgin et al. 2003; Willoughby et al. 2015
+Andropadus virens,Passeriformes,0.659,7.15,584.3395,27,0.73,Resident,Evans and Sheldon 2008; Willoughby et al. 2015
+Anthornis melanura,Passeriformes,0.571,4.17,38.6297,27,41.86,Resident,Paterson et al. 2010; Willoughby et al. 2015
+Anthus spragueii,Passeriformes,0.78,9.2,311.9156,26,46.14,Migratory,Hughes 2010; Willoughby et al. 2015
+Aphelocoma coerulescens,Passeriformes,0.59,5.97,8.3429,77,28.09,Resident,Stenzler and Fitzpatrick 2002; Willoughby et al. 2015
+Aphelocoma insularis,Passeriformes,0.647,6.7,0.0369,116,34.02,Resident,Evans and Sheldon 2008; Delaney and Wayne 2005
+Aphelocoma ultramarina,Passeriformes,0.908,15.33,9.9195,113,19.81,Resident,Evans and Sheldon 2008; Li et al. 1997
+Atrichornis clamosus,Passeriformes,0.523,3.33,0.024,42,34.31,Resident,Cowen et al. 2013; Willoughby et al. 2015
+Bucanetes githagineus,Passeriformes,0.761,3.01,924.99,20,30.26,Resident,Barrientos et al. 2014; Willoughby et al. 2015
+Buphagus erythrorhynchus,Passeriformes,0.781,8.3,303.4482,51,4.83,Resident,Spies et al. 2012; Willoughby et al. 2015
+Calocitta formosa,Passeriformes,0.752,9,31.6745,210,13.6,Resident,Evans and Sheldon 2008; Williams et al. 2004
+Carduelis tristis,Passeriformes,0.887,23.38,1551.7015,13,37.15,Migratory,Hughes 2010; Willoughby et al. 2015
+Carpodacus mexicanus,Passeriformes,0.877,16.24,1192.1211,21,37.72,Resident,Hughes 2010; Oh and Badyaev 2009
+Catharus bicknelli,Passeriformes,0.757,10.8,8.4714,28,26.01,Migratory,Evans and Sheldon 2008; Goetz et al. 2003
+Catharus ustulatus,Passeriformes,0.83,11.33,2371.9724,30,23.52,Migratory,Evans and Sheldon 2008; Willoughby et al. 2015
+Certhidea olivacea,Passeriformes,0.37,7.1,0.7802,10,0.55,Resident,Petren et al. 2005; Willoughby et al. 2015
+Cettia diphone,Passeriformes,0.658,10,331.0564,13,29.44,Migratory,Evans and Sheldon 2008; Willoughby et al. 2015
+Chasiempis sandwichensis,Passeriformes,0.613,7.69,1.0622,14,19.6,Resident,Evans and Sheldon 2008; Willoughby et al. 2015
+Chersophilus duponti,Passeriformes,0.601,6.21,42.4641,39,34.51,Resident,Hughes 2010; Willoughby et al. 2015
+Chiroxiphia caudata,Passeriformes,0.821,11,174.0261,26,23.46,Resident,Evans and Sheldon 2008; Francisco et al. 2004
+Chiroxiphia lanceolata,Passeriformes,0.663,8.27,42.5033,19,8.42,Resident,Hughes 2010; Duval et al. 2007
+Cinclus cinclus,Passeriformes,0.699,12.39,2071.521,62,52.41,Migratory,Hughes 2010; Willoughby et al. 2015
+Climacteris picumnus,Passeriformes,0.605,8.88,298.915,29,28.79,Resident,Evans and Sheldon 2008; Doerr 2005
+Coracina newtoni,Passeriformes,0.492,3.61,0.0618,68,21.05,Resident,Salmona et al. 2010; Willoughby et al. 2015
+Corapipo altera,Passeriformes,0.717,10.13,18.4159,12,7.93,Resident,Hughes 2010; Willoughby et al. 2015
+Corcorax melanorhamphos,Passeriformes,0.707,8.67,267.9417,364,30.38,Resident,Evans and Sheldon 2008; Beck et al. 2003
+Corvus brachyrhynchos,Passeriformes,0.8,12.09,2510.2074,449,42.95,Migratory,Schoenle et al. 2007; Willoughby et al. 2015
+Corvus corax,Passeriformes,0.68,11.5,18486.807,928,55.94,Resident,Fleischer et al. 2008; Willoughby et al. 2015
+Corvus corone,Passeriformes,0.641,6.75,10065.315,570,46.22,Migratory,Hughes 2010; Willoughby et al. 2015
+Corvus kubaryi,Passeriformes,0.163,1.78,0.023,250,13.87,Resident,Tarr and Fleischer 1999; Willoughby et al. 2015
+Cyanocitta stelleri,Passeriformes,0.68,6.2,656.9134,128,41.37,Resident,Evans and Sheldon 2008; Willoughby et al. 2015
+Cyanocompsa brissonii,Passeriformes,0.811,12,673.4162,28,19.44,Resident,Ferreira et al. 2014
+Cyanocorax morio,Passeriformes,0.801,9.14,74.9344,243,17.86,Resident,Evans and Sheldon 2008; Willoughby et al. 2015
+Cyphorhinus phaeocephalus,Passeriformes,0.745,7.5,29.9079,25,6.82,Resident,Evans and Sheldon 2008; Willoughby et al. 2015
+Dasyornis brachypterus,Passeriformes,0.799,8.3,4.4879,42,33.61,Resident,Perrin and Roberts 2010; Willoughby et al. 2015
+Dendroica caerulescens,Passeriformes,0.832,20.6,228.9573,10,29.01,Migratory,Hughes 2010; Willoughby et al. 2015
+Dendroica cerulea,Passeriformes,0.77,14,139.6955,9,23.17,Migratory,Evans and Sheldon 2008; Willoughby et al. 2015
+Dendroica chrysoparia,Passeriformes,0.75,7.94,2.6502,10,22.74,Migratory,Hughes 2010; Lindsay et al. 2008
+Dendroica kirtlandii,Passeriformes,0.735,6.48,2.8463,14,34.42,Migratory,King et al. 2005; Willoughby et al. 2015
+Dendroica petechia,Passeriformes,0.71,14.67,4300.4637,10,20.78,Migratory,Gibbs et al. 2000; Willoughby et al. 2015
+Dendroica plumbea,Passeriformes,0.67,5.43,0.2592,10,15.95,Resident,Khimoun et al. 2016
+Diglossa cyanea,Passeriformes,0.889,12.64,40.1042,17,2.98,Resident,Bardeleben and Gray 2005c; Willoughby et al. 2015
+Drymodes brunneopygia,Passeriformes,0.666,6.7,129.2277,33,32.61,Resident,Scoble et al. 2012; Willoughby et al. 2015
+Elaenia martinica,Passeriformes,0.51,3.17,2.9978,21,16.32,Resident,Khimoun et al. 2016
+Elaenia ruficeps,Passeriformes,0.668,8.82,69.721,19,3.79,Resident,Ritter et al. 2014
+Emberiza aureola,Passeriformes,0.724,6.87,12103.372,20,39.32,Migratory,Yu et al. 2011; Willoughby et al. 2015
+Emberiza citrinella,Passeriformes,0.54,9.67,4346.8426,30,29.03,Migratory,Hughes 2010; Wonke et al. 2007
+Empidonax minimus,Passeriformes,0.87,12.6,1532.3861,10,31.8,Migratory,Evans and Sheldon 2008; Willoughby et al. 2015
+Epthianura albifrons,Passeriformes,0.801,18.61,370.4347,13,31.77,Resident,King et al. 2012; Willoughby et al. 2015
+Ficedula albicollis,Passeriformes,0.873,23.62,600.3106,13,17.91,Migratory,Krist and Munclinger 2011; Willoughby et al. 2015
+Ficedula hypoleuca,Passeriformes,0.8,13.52,2660.7106,14,28.29,Migratory,Leder et al. 2008; Willoughby et al. 2015
+Fringilla coelebs,Passeriformes,0.651,9.7,3940.6046,24,18.02,Migratory,Suarez et al. 2009a; Willoughby et al. 2015
+Fringilla teydea,Passeriformes,0.791,7.89,0.0568,30,28.21,Resident,Suarez et al. 2009b; Willoughby et al. 2015
+Galerida theklae,Passeriformes,0.569,4.83,274.6245,38,27.92,Resident,Mendez et al. 2011; Willoughby et al. 2015
+Garrulax canorus,Passeriformes,0.88,15.5,232.4925,63,26.91,Resident,Evans and Sheldon 2008; Willoughby et al. 2015
+Garrulax morrisonianus,Passeriformes,0.557,6.8,1.5718,73,23.82,Resident,Hughes 2010; Willoughby et al. 2015
+Geospiza fortis,Passeriformes,0.71,4.69,0.7701,24,0.55,Resident,Evans and Sheldon 2008; Grant et al. 2004
+Geospiza scandens,Passeriformes,0.67,7.1,0.7112,23,0.69,Resident,Petren et al. 2005; Willoughby et al. 2015
+Gymnorhina tibicen,Passeriformes,0.731,10.38,881.8292,285,33.44,Resident,Evans and Sheldon 2008; Willoughby et al. 2015
+Gymnorhinus cyanocephalus,Passeriformes,0.755,17.88,213.5349,105,39.05,Resident,Hughes 2010; Willoughby et al. 2015
+Hemignathus virens,Passeriformes,0.829,12.8,0.7138,14,20.34,Resident,Evans and Sheldon 2008; Willoughby et al. 2015
+Hemixos castanonotus,Passeriformes,0.593,6.5,117.8517,38,24.22,Migratory,Hughes 2010; Willoughby et al. 2015
+Henicorhina leucophrys,Passeriformes,0.836,11.75,74.6409,16,9.73,Resident,Bowie et al. 2012; Willoughby et al. 2015
+Heteromyias albispecularis,Passeriformes,0.718,5,12.4518,36,5.07,Resident,Bardeleben et al. 2005a; Willoughby et al. 2015
+Himatione sanguinea,Passeriformes,0.636,8.4,1.8747,15,23,Resident,Evans and Sheldon 2008; Willoughby et al. 2015
+Hirundo rustica,Passeriformes,0.8,21.14,12359.123,18,15.78,Migratory,Dor et al. 2012; Willoughby et al. 2015
+Junco hyemalis,Passeriformes,0.676,9.8,3111.4513,20,38.17,Migratory,Evans and Sheldon 2008; Willoughby et al. 2015
+Lagonosticta sanguinodorsalis,Passeriformes,0.58,6.5,1.1178,11,9.72,Resident,Abalaka et al. 2015
+Lanius ludovicianus,Passeriformes,0.483,4,1467.1125,52,31.78,Migratory,Eggert et al. 2004; Willoughby et al. 2015
+Limnothlypis swainsonii,Passeriformes,0.746,6,163.9022,19,22.49,Migratory,Evans and Sheldon 2008; Willoughby et al. 2015
+Liocichla steerii,Passeriformes,0.801,9.14,1.7231,31,23.84,Resident,Yeung et al. 2004; Willoughby et al. 2015
+Locustella pryeri,Passeriformes,0.474,3.6,112.7782,14,39.3,Migratory,Ishibashi et al. 2000; Willoughby et al. 2015
+Lonchura leucogastroides,Passeriformes,0.489,3.57,20.154,12,2.55,Resident,Evans and Sheldon 2008; Willoughby et al. 2015
+Luscinia svecica,Passeriformes,0.761,18,7565.4733,17,47.11,Migratory,Hughes 2010; Johnsen et al. 2006
+Malurus cyaneus,Passeriformes,0.918,27.4,175.3574,10,32.39,Resident,Evans and Sheldon 2008; Willoughby et al. 2015
+Malurus splendens,Passeriformes,0.815,13.8,350.1081,9,28.18,Resident,Evans and Sheldon 2008; Webster et al. 2004
+Manacus manacus,Passeriformes,0.72,14.88,770.5413,17,4.83,Resident,Evans and Sheldon 2008; Willoughby et al. 2015
+Manorina melanophrys,Passeriformes,0.612,7.2,45.2722,30,32.98,Resident,Painter et al. 1997; Willoughby et al. 2015
+Margarops fuscus,Passeriformes,0.46,3.21,0.6614,67,15.91,Resident,Khimoun et al. 2016
+Melospiza melodia,Passeriformes,0.633,9.5,2402.9553,22,42.72,Migratory,Evans and Sheldon 2008; Willoughby et al. 2015
+Mimus macdonaldi,Passeriformes,0.389,2.93,0.0067,70,1.38,Resident,Hoeck et al. 2009; Willoughby et al. 2015
+Mimus melanotis,Passeriformes,0.431,3.95,0.055,51,0.83,Resident,Hoeck et al. 2009; Willoughby et al. 2015
+Mimus parvulus,Passeriformes,0.546,5.09,0.6938,54,0.5,Resident,Hoeck et al. 2009; Willoughby et al. 2015
+Mimus polyglottos,Passeriformes,0.766,10.6,1669.3555,49,22.94,Resident,Evans and Sheldon 2008; Willoughby et al. 2015
+Mimus trifasciatus,Passeriformes,0.45,2.69,0.0174,63,1.28,Resident,Hoeck et al. 2009; Willoughby et al. 2015
+Mionectes striaticollis,Passeriformes,0.775,7.55,32.6932,15,6.36,Resident,Bardeleben and Gray 2005a; Willoughby et al. 2015
+Modulatrix stictigula,Passeriformes,0.855,8.7,7.2086,31,7.61,Resident,Sellas et al. 2008; Willoughby et al. 2015
+Mohoua ochrocephala,Passeriformes,0.411,2.7,5.8961,28,45.33,Resident,Grueber et al. 2015
+Molothrus ater,Passeriformes,0.815,18.5,2111.3994,40,31.82,Migratory,Evans and Sheldon 2008; Strausberger and Ashley 2003
+Myrmeciza exsul,Passeriformes,0.666,7.6,36.5913,27,11.18,Resident,Hughes 2010; Barnett et al. 2007
+Myzomela cardinalis,Passeriformes,0.785,11.67,2.3954,14,15.14,Resident,Thomassen et al. 2010; Willoughby et al. 2015
+Neothraupis fasciata,Passeriformes,0.54,4.63,243.6795,27,16.05,Resident,Correa et al. 2010; Willoughby et al. 2015
+Notiomystis cincta,Passeriformes,0.652,5.15,0.0099,93,36.9,Resident,Hughes 2010; Willoughby et al. 2015
+Nucifraga columbiana,Passeriformes,0.809,9.15,437.896,130,36.6,Resident,Oyler-McCance et al. 2013; Willoughby et al. 2015
+Oenanthe oenanthe,Passeriformes,0.635,8.8,11992.314,25,36.33,Migratory,Hughes 2010; Willoughby et al. 2015
+Orthonyx temminckii,Passeriformes,0.663,12.8,22.2917,58,30.13,Resident,Hughes 2010; Willoughby et al. 2015
+Pachycephala pectoralis,Passeriformes,0.85,15.17,288.6606,30,29.1,Resident,Evans and Sheldon 2008; Willoughby et al. 2015
+Paradoxornis heudei,Passeriformes,0.773,9.27,92.3092,21,44.99,Resident,Hughes 2010; Chang et al. 2009b
+Paradoxornis webbianus,Passeriformes,0.756,7.91,583.1481,11,34.37,Resident,Qu et al. 2012; Willoughby et al. 2015
+Paroaria dominicana,Passeriformes,0.768,8,124.9072,33,9.17,Resident,Ferreira et al. 2014
+Parus major,Passeriformes,0.735,9.56,7371.1348,16,45.27,Resident,Evans and Sheldon 2008; Saladin et al. 2003
+Parus monticolus,Passeriformes,0.767,9.33,222.0759,14,29.19,Resident,Evans and Sheldon 2008; Willoughby et al. 2015
+Parus rufescens,Passeriformes,0.68,9.14,236.102,9,49.83,Resident,Burg et al. 2006; Willoughby et al. 2015
+Passer domesticus,Passeriformes,0.598,6,13009.381,27,2.47,Resident,Hughes 2010; Garnier et al. 2009
+Passer montanus,Passeriformes,0.649,8.11,9308.5711,21,30.58,Resident,Hughes 2010; Willoughby et al. 2015
+Perisoreus infaustus,Passeriformes,0.56,12.33,4485.5623,84,60.09,Resident,Hughes 2010; Jaari et al. 2008
+Petroica australis,Passeriformes,0.437,3,14.1693,31,41.1,Resident,Townsend et al. 2012; Willoughby et al. 2015
+Petroica goodenovii,Passeriformes,0.536,7.78,830.159,9,26.88,Migratory,Evans and Sheldon 2008; Willoughby et al. 2015
+Petronia petronia,Passeriformes,0.697,6.64,1671.5991,30,37.79,Resident,Hughes 2010; Willoughby et al. 2015
+Phaenostictus mcleannani,Passeriformes,0.516,25,26.241,51,8.99,Resident,Chaves-Campos and DeWoody 2008; Willoughby et al. 2015
+Philesturnus carunculatus,Passeriformes,0.532,6.5,0.0192,75,43.24,Resident,Taylor et al. 2007; Willoughby et al. 2015
+Phylidonyris novaehollandiae,Passeriformes,0.792,10.39,126.9667,20,34.87,Resident,Myers et al. 2009; Willoughby et al. 2015
+Phyllastrephus cabanisi,Passeriformes,0.61,6,204.5762,34,7.87,Resident,Callens et al. 2011; Willoughby et al. 2015
+Phylloscopus trochilus,Passeriformes,0.663,14.8,6846.1088,9,28.06,Migratory,Hughes 2010; Bensch et al. 2009
+Pica nuttalli,Passeriformes,0.537,3.9,13.1953,158,37.35,Resident,Ernest et al. 2008; Willoughby et al. 2015
+Pica pica,Passeriformes,0.772,10.1,8088.1568,218,40.74,Resident,Hughes 2010; Willoughby et al. 2015
+Pipra filicauda,Passeriformes,0.749,15.86,262.9642,15,0.65,Resident,Ryder et al. 2009; Willoughby et al. 2015
+Pogonocichla stellata,Passeriformes,0.685,11.6,171.4854,19,12.75,Resident,Evans and Sheldon 2008; Galbusera et al. 2004
+Pomarea dimidiata,Passeriformes,0.634,4,0.008,23,21.23,Resident,Hughes 2010; Willoughby et al. 2015
+Pomatostomus ruficeps,Passeriformes,0.836,10.4,145.7403,58,30.72,Resident,Hughes 2010; Holleley et al. 2009
+Pomatostomus temporalis,Passeriformes,0.845,9.89,445.2913,75,22.2,Resident,Kawano et al. 2007; Willoughby et al. 2015
+Procnias tricarunculatus,Passeriformes,0.426,6.43,2.438,210,10.36,Resident,Saranathan et al. 2007; Willoughby et al. 2015
+Progne subis,Passeriformes,0.517,10.1,976.5754,54,7.27,Migratory,Stanley et al. 2011; Willoughby et al. 2015
+Promerops cafer,Passeriformes,0.874,17.83,16.4026,35,33.39,Resident,Feldheim et al. 2006; Willoughby et al. 2015
+Promerops gurneyi,Passeriformes,0.907,9.5,13.1212,35,27.01,Resident,Feldheim et al. 2006; Willoughby et al. 2015
+Prosthemadera novaeseelandiae,Passeriformes,0.677,7.79,20.9628,106,39.07,Resident,Wells et al. 2013; Willoughby et al. 2015
+Prunella collaris,Passeriformes,0.372,2.78,2047.5067,39,40.11,Migratory,Evans and Sheldon 2008; Willoughby et al. 2015
+Pseudonigrita arnaudi,Passeriformes,0.739,11.89,47.6278,20,0.97,Resident,Evans and Sheldon 2008; Willoughby et al. 2015
+Ptilonorhynchus violaceus,Passeriformes,0.728,10.08,71.8311,219,30.82,Resident,Evans and Sheldon 2008; Willoughby et al. 2015
+Pyrenestes ostrinus,Passeriformes,0.835,15.8,477.2687,22,0.36,Resident,Delaney et al. 2005; Willoughby et al. 2015
+Pyrrhocorax pyrrhocorax,Passeriformes,0.443,8.75,2364.7119,277,40.43,Resident,Wenzel et al. 2011; Willoughby et al. 2015
+Quelea quelea,Passeriformes,0.859,15.83,1139.8908,20,6.08,Resident,Dallimer et al. 2002; Willoughby et al. 2015
+Ramphocelus bresilius,Passeriformes,0.48,4.32,41.8989,33,17.58,Resident,Nogueira et al. 2014
+Ramphocelus costaricensis,Passeriformes,0.834,13.86,1.8272,31,8.93,Resident,Krueger and Williams 2006; Willoughby et al. 2015
+Ramphocelus passerinii,Passeriformes,0.834,13.86,22.2013,32,14.62,Resident,Krueger and Williams 2006; Willoughby et al. 2015
+Ramphocinclus brachyurus,Passeriformes,0.59,4.67,0.1475,50,14.52,Resident,Hughes 2010; Willoughby et al. 2015
+Remiz pendulinus,Passeriformes,0.712,5.22,1442.5685,9,41.65,Migratory,Meszaros et al. 2008; Willoughby et al. 2015
+Rhipidura fuliginosa,Passeriformes,0.904,14,211.0872,8,29.6,Migratory,Jin et al. 2006; Willoughby et al. 2015
+Riparia riparia,Passeriformes,0.769,11.7,11815.322,13,17.44,Migratory,Hughes 2010; van Dongen et al. 2010
+Saltator albicollis,Passeriformes,0.32,2.51,0.4288,41,15.27,Resident,Khimoun et al. 2016
+Sayornis phoebe,Passeriformes,0.776,11.2,1437.416,20,33.73,Migratory,Evans and Sheldon 2008; Willoughby et al. 2015
+Schetba rufa,Passeriformes,0.794,10,45.6123,37,18.71,Resident,Evans and Sheldon 2008; Willoughby et al. 2015
+Sericornis magnirostra,Passeriformes,0.79,7,35.5462,10,28.58,Resident,Bardeleben et al. 2005b; Willoughby et al. 2015
+Sialia sialis,Passeriformes,0.696,6.6,909.7642,28,31.77,Migratory,Hughes 2010; Faircloth et al. 2006
+Sitta pusilla,Passeriformes,0.832,14.92,132.3945,10,29.59,Resident,Hughes 2010; Willoughby et al. 2015
+Spizella wortheni,Passeriformes,0.69,11.56,7.1597,12,27.49,Resident,Hughes 2010; Willoughby et al. 2015
+Struthidea cinerea,Passeriformes,0.78,6.33,312.4173,132,25.83,Resident,Hughes 2010; Willoughby et al. 2015
+Sturnus unicolor,Passeriformes,0.7,6.75,135.6136,84,38.59,Resident,Hughes 2010; Willoughby et al. 2015
+Sylvia atricapilla,Passeriformes,0.71,8.89,2819.6136,17,30.43,Migratory,Aksoy et al. 2013; Willoughby et al. 2015
+Tachycineta albilinea,Passeriformes,0.769,13.8,82.9151,17,13.75,Resident,Hughes 2010; Willoughby et al. 2015
+Tachycineta bicolor,Passeriformes,0.856,25.6,3349.8495,21,29.55,Migratory,Hughes 2010; Makerewich et al. 2009
+Tachycineta leucorrhoa,Passeriformes,0.852,16.7,604.6165,15,16.9,Migratory,Hughes 2010; Makerewich et al. 2009
+Taeniopygia guttata,Passeriformes,0.734,6.77,784.7665,12,25.26,Resident,Dawson et al. 2005a; Willoughby et al. 2015
+Tarsiger cyanurus,Passeriformes,0.912,14.33,4148.9566,13,36.98,Migratory,Hughes 2010; Willoughby et al. 2015
+Telespiza cantans,Passeriformes,0.414,3.11,0.0004,33,25.77,Resident,Evans and Sheldon 2008; Willoughby et al. 2015
+Terpsiphone mutata,Passeriformes,0.727,12,66.7998,13,19.36,Resident,Evans and Sheldon 2008; Willoughby et al. 2015
+Troglodytes troglodytes,Passeriformes,0.708,9.6,5109.554,10,43.15,Migratory,Pruett et al. 2014 
+Turdus helleri,Passeriformes,0.62,4,0.019,69,3.59,Resident,Callens et al. 2011; Willoughby et al. 2015
+Turdus lherminieri,Passeriformes,0.598,5.08,0.2195,105,15.81,Resident,Arias et al. 2012; Willoughby et al. 2015
+Turdus merula,Passeriformes,0.6,5.95,3246.0485,103,15.2,Migratory,Hughes 2010; Willoughby et al. 2015
+Urosphena squameiceps,Passeriformes,0.638,10.31,191.9952,9,32.17,Migratory,Kamioki et al. 2013; Willoughby et al. 2015
+Vermivora chrysoptera,Passeriformes,0.558,9.7,254.0936,9,27.96,Migratory,Evans and Sheldon 2008; Willoughby et al. 2015
+Vestiaria coccinea,Passeriformes,0.798,11.2,2.2921,18,20.34,Resident,Evans and Sheldon 2008; Willoughby et al. 2015
+Vidua chalybeata,Passeriformes,0.752,8.18,733.8954,13,1.43,Resident,Evans and Sheldon 2008; Willoughby et al. 2015
+Vireo altiloquus,Passeriformes,0.58,4.58,27.7265,19,17.15,Migratory,Khimoun et al. 2016
+Vireo atricapilla,Passeriformes,0.826,11,62.8472,9,27.86,Migratory,Barr et al. 2007; Willoughby et al. 2015
+Wilsonia pusilla,Passeriformes,0.757,8,2796.742,7,38.58,Migratory,Evans and Sheldon 2008; Clegg et al. 2003
+Xenicus gilviventris,Passeriformes,0.553,4.54,2.1501,18,43.99,Resident,Weston et al. 2016
+Zonotrichia leucophrys,Passeriformes,0.85,11.16,2885.6667,28,46.52,Migratory,Poesel et al. 2009; Willoughby et al. 2015
+Zosterops borbonicus,Passeriformes,0.759,7.75,0.505,8,20.77,Resident,Bertrand et al. 2012; Willoughby et al. 2015
+Zosterops flavifrons,Passeriformes,0.152,4.2,1.3202,11,16.21,Resident,Hughes 2010; Phillimore et al. 2008
+Zosterops lateralis,Passeriformes,0.731,6.83,380.0179,13,22.12,Migratory,Evans and Sheldon 2008; Willoughby et al. 2015
+Zosterops senegalensis,Passeriformes,0.711,5.08,869.9596,11,0.99,Resident,Oatley et al. 2013; Willoughby et al. 2015

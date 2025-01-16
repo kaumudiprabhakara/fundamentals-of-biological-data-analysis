@@ -1,0 +1,97 @@
+Side,Position,Eggs_Wheat,Wheat_Side_of_Box,Eggs_Other,Other_Flour,Other_Flour_Side_of_Box,Start,End
+Left,2,21,Aisle ,23,Amaranth,Wall,7/13/2021,7/16/2021
+Right,8,13,Wall,17,Amaranth,Aisle,7/13/2021,7/16/2021
+Left,6,25,Aisle ,28,Amaranth,Wall,8/4/2021,8/7/2021
+Right,3,21,Wall,21,Amaranth,Aisle,8/4/2021,8/7/2021
+Left,2,47,Aisle ,44,Amaranth,Wall,8/17/2021,8/20/2021
+Right,1,15,Wall,11,Amaranth,Aisle,8/17/2021,8/20/2021
+Left,6,44,Wall,9,Buckwheat,Aisle,7/6/2021,7/9/2021
+Right,6,30,Aisle ,48,Buckwheat,Wall,7/6/2021,7/9/2021
+Left,3,23,Wall,37,Buckwheat,Aisle,7/20/2021,7/23/2021
+Right,1,43,Aisle ,42,Buckwheat,Wall,7/20/2021,7/23/2021
+Left,8,35,Wall,31,Buckwheat,Aisle,8/10/2021,8/13/2021
+Right,8,62,Aisle ,25,Buckwheat,Wall,8/10/2021,8/13/2021
+Left,6,6,Aisle ,6,Cassava,Wall,7/13/2021,7/16/2021
+Right,7,10,Wall,9,Cassava,Aisle,7/13/2021,7/16/2021
+Left,4,17,Aisle ,0,Cassava,Wall,8/4/2021,8/7/2021
+Right,4,29,Wall,11,Cassava,Aisle,8/4/2021,8/7/2021
+Left,7,11,Aisle ,0,Cassava,Wall,8/17/2021,8/20/2021
+Right,5,41,Wall,21,Cassava,Aisle,8/17/2021,8/20/2021
+Left,3,11,Aisle ,15,Corn,Wall,7/13/2021,7/16/2021
+Right,1,22,Wall,8,Corn,Aisle,7/13/2021,7/16/2021
+Left,7,25,Aisle ,36,Corn,Wall,8/4/2021,8/7/2021
+Right,1,28,Wall,16,Corn,Aisle,8/4/2021,8/7/2021
+Left,6,56,Aisle ,30,Corn,Wall,8/17/2021,8/20/2021
+Right,2,24,Wall,5,Corn,Aisle,8/17/2021,8/20/2021
+Left,5,44,Wall,20,Garbanzo,Aisle,7/6/2021,7/9/2021
+Right,1,34,Aisle ,3,Garbanzo,Wall,7/6/2021,7/9/2021
+Left,5,45,Aisle ,2,Garbanzo,Wall,8/4/2021,8/7/2021
+Right,2,7,Wall,5,Garbanzo,Aisle,8/4/2021,8/7/2021
+Left,3,34,Aisle ,3,Garbanzo,Wall,8/17/2021,8/20/2021
+Right,3,0,Wall,0,Garbanzo,Aisle,8/17/2021,8/20/2021
+Left,8,39,Wall,35,Millet,Aisle,7/6/2021,7/9/2021
+Right,5,57,Aisle ,23,Millet,Wall,7/6/2021,7/9/2021
+Left,2,33,Aisle ,8,Millet,Wall,8/4/2021,8/7/2021
+Right,5,61,Wall,32,Millet,Aisle,8/4/2021,8/7/2021
+Left,5,13,Aisle ,4,Millet,Wall,8/17/2021,8/20/2021
+Right,4,47,Wall,80,Millet,Aisle,8/17/2021,8/20/2021
+Left,3,15,Wall,6,Oat,Aisle,7/6/2021,7/9/2021
+Right,8,70,Aisle ,12,Oat,Wall,7/6/2021,7/9/2021
+Left,8,40,Wall,14,Oat,Aisle,7/20/2021,7/23/2021
+Right,8,39,Aisle ,6,Oat,Wall,7/20/2021,7/23/2021
+Left,1,36,Aisle ,6,Oat,Wall,8/17/2021,8/20/2021
+Right,8,29,Wall,25,Oat,Aisle,8/17/2021,8/20/2021
+Left,5,15,Aisle ,10,Potato,Wall,7/13/2021,7/16/2021
+Right,5,24,Wall,4,Potato,Aisle,7/13/2021,7/16/2021
+Left,6,17,Wall,2,Potato,Aisle,7/20/2021,7/23/2021
+Right,2,18,Aisle ,1,Potato,Wall,7/20/2021,7/23/2021
+Left,6,67,Wall,21,Potato,Aisle,8/10/2021,8/13/2021
+Right,2,0,Aisle ,0,Potato,Wall,8/10/2021,8/13/2021
+Left,7,42,Aisle ,30,Quinoa,Wall,7/13/2021,7/16/2021
+Right,6,30,Wall,12,Quinoa,Aisle,7/13/2021,7/16/2021
+Left,3,27,Aisle ,19,Quinoa,Wall,8/4/2021,8/7/2021
+Right,8,29,Wall,16,Quinoa,Aisle,8/4/2021,8/7/2021
+Left,4,43,Wall,22,Quinoa,Aisle,8/10/2021,8/13/2021
+Right,3,26,Aisle ,4,Quinoa,Wall,8/10/2021,8/13/2021
+Left,7,22,Wall,34,Rice,Aisle,7/6/2021,7/9/2021
+Right,4,44,Aisle ,33,Rice,Wall,7/6/2021,7/9/2021
+Left,1,38,Aisle ,11,Rice,Wall,8/4/2021,8/7/2021
+Right,7,40,Wall,28,Rice,Aisle,8/4/2021,8/7/2021
+Left,3,17,Wall,14,Rice,Aisle,8/10/2021,8/13/2021
+Right,1,39,Aisle ,48,Rice,Wall,8/10/2021,8/13/2021
+Left,4,11,Aisle ,2,Rye,Wall,7/13/2021,7/16/2021
+Right,3,21,Wall,7,Rye,Aisle,7/13/2021,7/16/2021
+Left,5,23,Wall,13,Rye,Aisle,7/20/2021,7/23/2021
+Right,4,31,Aisle ,37,Rye,Wall,7/20/2021,7/23/2021
+Left,5,21,Wall,22,Rye,Aisle,8/10/2021,8/13/2021
+Right,4,26,Aisle ,25,Rye,Wall,8/10/2021,8/13/2021
+Left,2,39,Wall,10,Sorghum,Aisle,7/6/2021,7/9/2021
+Right,2,7,Aisle ,13,Sorghum,Wall,7/6/2021,7/9/2021
+Left,4,23,Wall,10,Sorghum,Aisle,7/20/2021,7/23/2021
+Right,5,35,Aisle ,20,Sorghum,Wall,7/20/2021,7/23/2021
+Left,1,2,Wall,3,Sorghum,Aisle,8/10/2021,8/13/2021
+Right,6,26,Aisle ,22,Sorghum,Wall,8/10/2021,8/13/2021
+Left,1,8,Wall,34,Spelt,Aisle,7/6/2021,7/9/2021
+Right,7,49,Aisle ,35,Spelt,Wall,7/6/2021,7/9/2021
+Left,1,21,Wall,18,Spelt,Aisle,7/20/2021,7/23/2021
+Right,3,13,Aisle ,2,Spelt,Wall,7/20/2021,7/23/2021
+Left,8,46,Aisle ,27,Spelt,Wall,8/17/2021,8/20/2021
+Right,7,16,Wall,41,Spelt,Aisle,8/17/2021,8/20/2021
+Left,1,29,Aisle ,23,Teff,Wall,7/13/2021,7/16/2021
+Right,4,11,Wall,20,Teff,Aisle,7/13/2021,7/16/2021
+Left,2,28,Wall,38,Teff,Aisle,7/20/2021,7/23/2021
+Right,7,11,Aisle ,47,Teff,Wall,7/20/2021,7/23/2021
+Left,2,27,Wall,30,Teff,Aisle,8/10/2021,8/13/2021
+Right,5,16,Aisle ,29,Teff,Wall,8/10/2021,8/13/2021
+Left,4,42,Wall,19,Wheat,Aisle,7/6/2021,7/9/2021
+Right,3,15,Aisle ,9,Wheat,Wall,7/6/2021,7/9/2021
+Left,8,37,Aisle ,43,Wheat,Wall,7/13/2021,7/16/2021
+Right,2,19,Wall,3,Wheat,Aisle,7/13/2021,7/16/2021
+Left,7,35,Wall,17,Wheat,Aisle,7/20/2021,7/23/2021
+Right,6,23,Aisle ,33,Wheat,Wall,7/20/2021,7/23/2021
+Left,8,29,Aisle ,12,Wheat,Wall,8/4/2021,8/7/2021
+Right,6,26,Wall,22,Wheat,Aisle,8/4/2021,8/7/2021
+Left,7,16,Wall,40,Wheat,Aisle,8/10/2021,8/13/2021
+Right,7,10,Aisle ,14,Wheat,Wall,8/10/2021,8/13/2021
+Left,4,25,Aisle ,41,Wheat,Wall,8/17/2021,8/20/2021
+Right,6,28,Wall,57,Wheat,Aisle,8/17/2021,8/20/2021
